@@ -1,0 +1,10 @@
+# Private Key File - This file contains the private key components for RSA encryption
+# The values are as follows:
+# n: The modulus for the public and private keys
+# d: Integer to represent the private key
+# p: The first prime number
+# q: The second prime number
+n: 100160063
+d: 60084029
+p: 10007
+q: 10009

@@ -1,0 +1,6 @@
+# Public Key File - This file contains the public key components for RSA encryption
+# The values are as follows:
+# n: The modulus for the public key
+# e: Integer to represent the public key
+n: 100160063
+e: 5
